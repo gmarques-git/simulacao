@@ -1,5 +1,6 @@
 funcionarios:
 salario:
 
-MaquinasMaquinas solda:
+Maquinas de solda:
+quantidade:
 valores:
